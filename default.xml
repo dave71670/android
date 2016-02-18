@@ -34,7 +34,7 @@
   <project path="build" name="CarbonROM/android_build" groups="pdk" remote="carbon" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="dave71670/android" groups="pdk" remote="gh" />
+  <project path="android" name="CarbonRom/android" groups="pdk" remote="carbon" />
   <project path="packages/apps/CarbonFibers" name="CarbonROM/android_packages_apps_CarbonFibers" remote="carbon" />
   <project path="vendor/carbon" name="CarbonROM/android_vendor_carbon" remote="carbon" />
 
